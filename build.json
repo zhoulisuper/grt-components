@@ -1,0 +1,19 @@
+{
+  "library": "BizComps",
+  "libraryTarget": "umd",
+  "sourceMap": true,
+  "alias": {
+    "@": "./src/components"
+  },
+  "externals": {
+    "@ant-design/icons": "@ant-design/icons"
+  },
+  "plugins": [
+    [
+      "build-plugin-component-multiple",
+      {
+        "themePackage": "@alifd/theme-2"
+      }
+    ]
+  ]
+}

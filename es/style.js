@@ -1,0 +1,14 @@
+import '@alifd/next/es/button/style';
+import '@alifd/next/es/input/style';
+import 'antd/es/button/style';
+import 'antd/es/table/style';
+import 'antd/es/popconfirm/style';
+import 'antd/es/typography/style';
+import 'antd/es/form/style';
+import 'antd/es/input/style';
+import 'antd/es/input-number/style';
+import 'antd/es/dropdown/style';
+import 'antd/es/menu/style';
+import 'antd/es/space/style';
+import 'antd/es/tag/style';
+import './index.scss';
